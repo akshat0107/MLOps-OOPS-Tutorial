@@ -10,4 +10,5 @@ class employee:
 #creating an object of class
 sam = employee()
 
-sam.travel("Kerala")
+# sam.travel("Kerala")
+print(type(sam))
