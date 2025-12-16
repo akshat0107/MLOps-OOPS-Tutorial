@@ -1,4 +1,7 @@
 1. Class and Obj (example)
 2. Class has data/attribute and func/methods
 3. Why Python is called Object-Oriented Programming?
-4. 
+4. End to End Project (Chatbook class)
+    encapsulation
+    getter/ setter
+    static method
