@@ -6,3 +6,5 @@
     encapsulation
     getter/ setter
     static method
+
+5. Inheritance
